@@ -42,7 +42,7 @@ const config = {
     ],
     frontline: false,
     ignoreIndex: true,
-    title: "<div class='greenCircle'></div>",
+    title: null, //"<div class='greenCircle'></div>",
   },
   siteMetadata: {
     title: 'Artembo\' Cheat Sheet Collection',
